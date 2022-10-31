@@ -1,0 +1,19 @@
+{
+  "name": "dhexmun",
+  "version": "1.0.0",
+  "description": "My GitHub README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhexmun/dhexmun.git"
+  },
+  "author": "dhexmun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhexmun/dhexmun/issues"
+  },
+  "homepage": "https://github.com/dhexmun/dhexmun#readme"
+}
